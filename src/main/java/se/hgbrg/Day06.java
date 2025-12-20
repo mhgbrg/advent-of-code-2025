@@ -7,7 +7,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import org.checkerframework.checker.units.qual.A;
 
 public class Day06 {
     public static void main(String[] args) throws IOException {
