@@ -1,4 +1,4 @@
-package se.hgbrg;
+package se.hgbrg.aoc2025;
 
 import com.google.common.collect.ImmutableList;
 import java.io.IOException;

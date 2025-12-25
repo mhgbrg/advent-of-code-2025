@@ -1,4 +1,4 @@
-package se.hgbrg;
+package se.hgbrg.aoc2025;
 
 import java.io.IOException;
 import java.nio.file.Files;
