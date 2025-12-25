@@ -139,7 +139,7 @@ public class Day12 {
     static class State {
         final boolean[][] board;
 
-        public State(boolean[][] board) {
+        State(boolean[][] board) {
             this.board = board;
         }
 
